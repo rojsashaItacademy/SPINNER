@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Spiiner</string>
+
+    <string-array name="animals">
+        <item>Select animal</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Chicken</item>
+        <item>Chicken</item>
+        <item>Chicken</item>
+        <item>Chicken</item>
+        <item>Chicken</item>
+        <item>Cow</item>
+    </string-array>
+
+</resources>
